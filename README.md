@@ -9,4 +9,3 @@
 <code><img height="30" src="https://www.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png"></code>
 <code><img height="30" src="https://seeklogo.com/images/D/discord-logo-134E148657-seeklogo.com.png"></code>
 
-![Emys's Stats](https://github-readme-stats.vercel.app/api?username=shizdev&show_icons=true&theme=radical)
