@@ -5,7 +5,4 @@
 <br> ⚡ Recently my projects are discord related (discord.py, Bots).
 <br> For more info, you can message me on Discord: <b>↬Vipex#0001<b>
 
-**Languages and Tools:**  
-<code><img height="30" src="https://www.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png"></code>
-<code><img height="30" src="https://seeklogo.com/images/D/discord-logo-134E148657-seeklogo.com.png"></code>
 
